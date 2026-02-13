@@ -1,0 +1,46 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+  first_name: Angelica
+  last_name: Ibarra A.
+  motto: I learn, I try, I grow
+  tagline: Fullstack Developer Student
+  focus: Learn more
+  avatar: https://github.com/4GeeksAcademy/4GeeksAcademy-Ange-ibarra/raw/master/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(5).png
+  email: angelicaavy12@gmail.com
+  phone: "+33 6 56 89 52 44"
+  linkedin: Angelica Ibarra
+  github: Ange-ibarra
+
+# languages you speak
+languages:
+  - idiom: English
+    level: Intermediate
+  - idiom: French
+    level: Intermediate
+  - idiom: Spanish
+    level: Native
+
+# Interests or hobbies
+interests:
+  - item: Gym
+  - item: Paint
+  - item: Cooking
+
+education: []
+experiences: []
+
+projects:
+    assignments:
+      - title: Postcard
+        link: "https://github.com/Ange-ibarra/exercise-postcard"
+        tagline: "A simple postcard project using HTML and CSS"
+
+skills:
+  toolset:
+    - name: Javascript 
+      level: 30%
+    - name: HTML5 & CSS
+      level: 60%
